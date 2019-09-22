@@ -1,0 +1,35 @@
+---
+# 三个-代表文件开头  ，# 表示注释
+
+# 字典
+#k: #表示键
+# abc #表示值
+
+# 列表
+#l:
+# - a
+# - b
+# - c
+#
+#s:
+# v:
+#  hello
+#  - m
+
+
+person:
+  name: 胖先森
+  age: 18
+  flag: false
+  birthday: 2018/12/19 20:21:22 #Spring Boot中时间格式
+  maps: {bookName: "西游记",author: '吴承恩'}
+  tempList:
+    - 红楼梦
+    - 三国演义
+    - 水浒传
+  dog:
+    dogName: 大黄
+    dogAge: 4
+
+# 代表文件结束
+...

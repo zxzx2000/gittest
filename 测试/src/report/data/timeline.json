@@ -1,0 +1,52 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-S5STCAS",
+    "children" : [ {
+      "name" : "25408-MainThread",
+      "children" : [ {
+        "name" : "test_2",
+        "uid" : "db033c750de67ede",
+        "parentUid" : "aa4c5c99504c1e0446718024e3f7ad7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566632376163,
+          "stop" : 1566632376163,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_3",
+        "uid" : "75095e448136274c",
+        "parentUid" : "aa4c5c99504c1e0446718024e3f7ad7f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1566632376174,
+          "stop" : 1566632376174,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "test_1",
+        "uid" : "f78fb6776678324c",
+        "parentUid" : "aa4c5c99504c1e0446718024e3f7ad7f",
+        "status" : "failed",
+        "time" : {
+          "start" : 1566632376046,
+          "stop" : 1566632376047,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "aa4c5c99504c1e0446718024e3f7ad7f"
+    } ],
+    "uid" : "8ddcb988dcc8571dd7da34dcfc9e4666"
+  } ]
+}

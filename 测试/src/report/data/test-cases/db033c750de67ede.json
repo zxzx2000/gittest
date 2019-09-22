@@ -1,0 +1,55 @@
+{
+  "uid" : "db033c750de67ede",
+  "name" : "test_2",
+  "fullName" : "v1.test_a#test_2",
+  "historyId" : "b9dacbc67962b9a91e45394e2cf0dbf6",
+  "time" : {
+    "start" : 1566632376163,
+    "stop" : 1566632376163,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "v1"
+  }, {
+    "name" : "suite",
+    "value" : "test_a"
+  }, {
+    "name" : "subSuite"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-S5STCAS"
+  }, {
+    "name" : "thread",
+    "value" : "25408-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "v1.test_a"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "db033c750de67ede.json",
+  "parameterValues" : [ ]
+}

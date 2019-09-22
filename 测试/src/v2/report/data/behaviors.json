@@ -1,0 +1,35 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "模块四",
+    "children" : [ {
+      "name" : "test_10",
+      "uid" : "ab12c9547ebcff7d",
+      "parentUid" : "92d5149a20b9156be3d230c521e3e4e7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566954552674,
+        "stop" : 1566954552676,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "92d5149a20b9156be3d230c521e3e4e7"
+  }, {
+    "name" : "test_100",
+    "uid" : "311734d671d0cf11",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1566954552706,
+      "stop" : 1566954552715,
+      "duration" : 9
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}

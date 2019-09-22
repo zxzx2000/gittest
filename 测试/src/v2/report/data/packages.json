@@ -1,0 +1,35 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "allure美化",
+    "children" : [ {
+      "name" : "test_10",
+      "uid" : "ab12c9547ebcff7d",
+      "parentUid" : "0a3df4d50ee3fc8e1c3fffef0928b0c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566954552674,
+        "stop" : 1566954552676,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "test_100",
+      "uid" : "311734d671d0cf11",
+      "parentUid" : "0a3df4d50ee3fc8e1c3fffef0928b0c5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1566954552706,
+        "stop" : 1566954552715,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "0a3df4d50ee3fc8e1c3fffef0928b0c5"
+  } ]
+}
